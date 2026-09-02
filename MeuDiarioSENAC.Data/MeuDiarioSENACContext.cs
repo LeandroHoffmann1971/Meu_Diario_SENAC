@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using MySqlConnector;
+using MeuDiarioSENAC.Model;
 
 namespace MeuDiarioSENAC.Data;
 

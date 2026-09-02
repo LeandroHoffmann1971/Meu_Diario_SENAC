@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v9.0": {
       "MeuDiarioSENAC/1.0.0": {
         "dependencies": {
-          "MeuDiarioSENAC.Data": "1.0.0"
+          "MeuDiarioSENAC.Data": "1.0.0",
+          "MeuDiarioSENAC.Model": "1.0.0"
         },
         "runtime": {
           "MeuDiarioSENAC.dll": {}
@@ -177,11 +178,20 @@
       },
       "MeuDiarioSENAC.Data/1.0.0": {
         "dependencies": {
+          "MeuDiarioSENAC.Model": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
         },
         "runtime": {
           "MeuDiarioSENAC.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "MeuDiarioSENAC.Model/1.0.0": {
+        "runtime": {
+          "MeuDiarioSENAC.Model.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -301,6 +311,11 @@
       "hashPath": "pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
     },
     "MeuDiarioSENAC.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MeuDiarioSENAC.Model/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

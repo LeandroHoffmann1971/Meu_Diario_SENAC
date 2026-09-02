@@ -264,6 +264,16 @@
             "related": ".xml"
           }
         }
+      },
+      "MeuDiarioSENAC.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
+        }
       }
     }
   },
@@ -689,10 +699,16 @@
         "pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512",
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
+    },
+    "MeuDiarioSENAC.Model/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "MeuDiarioSENAC.Model >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 9.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 9.0.0"
     ]
@@ -721,7 +737,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj": {
+              "projectPath": "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace MeuDiarioSENAC.Data;
+namespace MeuDiarioSENAC.Model;
 
 [Table("nota")]
 public class Nota

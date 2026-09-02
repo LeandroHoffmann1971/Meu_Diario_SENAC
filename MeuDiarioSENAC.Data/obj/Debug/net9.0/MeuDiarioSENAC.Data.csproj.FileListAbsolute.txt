@@ -10,3 +10,10 @@ C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\Meu
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\refint\MeuDiarioSENAC.Data.dll
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiarioSENAC.Data.pdb
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\ref\MeuDiarioSENAC.Data.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Model.deps.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Model.runtimeconfig.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Model.exe
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiarioSENAC.Data.sourcelink.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Data\obj\Debug\net9.0\MeuDiari.D3277251.Up2Date

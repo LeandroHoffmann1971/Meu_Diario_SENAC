@@ -30,3 +30,9 @@ C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\Microsof
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MySqlConnector.dll
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.deps.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.runtimeconfig.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.exe
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Debug\net9.0\MeuDiarioSENAC.sourcelink.json

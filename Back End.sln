@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC", "MeuDiario
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC.Data", "MeuDiarioSENAC.Data\MeuDiarioSENAC.Data.csproj", "{067A3CED-C0F4-4E4A-AAF1-D963BBBCD58A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeuDiarioSENAC.Model", "MeuDiarioSENAC.Model\MeuDiarioSENAC.Model.csproj", "{F3C10845-07DD-473C-A1D1-6904137AAA47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{067A3CED-C0F4-4E4A-AAF1-D963BBBCD58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067A3CED-C0F4-4E4A-AAF1-D963BBBCD58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067A3CED-C0F4-4E4A-AAF1-D963BBBCD58A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C10845-07DD-473C-A1D1-6904137AAA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C10845-07DD-473C-A1D1-6904137AAA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C10845-07DD-473C-A1D1-6904137AAA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C10845-07DD-473C-A1D1-6904137AAA47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\bin\Debug\net9.0\MeuDiarioSENAC.Model.exe
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\bin\Debug\net9.0\MeuDiarioSENAC.Model.deps.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\bin\Debug\net9.0\MeuDiarioSENAC.Model.runtimeconfig.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.AssemblyInfoInputs.cache
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.AssemblyInfo.cs
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.csproj.CoreCompileInputs.cache
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.sourcelink.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\refint\MeuDiarioSENAC.Model.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\MeuDiarioSENAC.Model.genruntimeconfig.cache
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.Model\obj\Debug\net9.0\ref\MeuDiarioSENAC.Model.dll
