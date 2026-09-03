@@ -36,3 +36,38 @@ C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiari
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.dll
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Debug\net9.0\MeuDiarioSENAC.sourcelink.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.Model.deps.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.Model.runtimeconfig.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.Model.exe
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.exe
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.deps.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.runtimeconfig.json
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\build-validation\MeuDiarioSENAC.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Business.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\bin\Debug\net9.0\MeuDiarioSENAC.Business.pdb
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.EntityFrameworkCore.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Caching.Abstractions.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Caching.Memory.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.DependencyInjection.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Logging.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Logging.Abstractions.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Options.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Microsoft.Extensions.Primitives.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\MySqlConnector.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\Pomelo.EntityFrameworkCore.MySql.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\MeuDiarioSENAC.Business.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\MeuDiarioSENAC.Data.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC\obj\Validation\MeuDiarioSENAC.Model.dll
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.Model.deps.json
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.Model.runtimeconfig.json
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.Model.exe
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.exe
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.deps.json
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.runtimeconfig.json
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.dll
+C:\Users\Suporte\AppData\Local\Temp\MeuDiarioSENAC-validation\MeuDiarioSENAC.pdb

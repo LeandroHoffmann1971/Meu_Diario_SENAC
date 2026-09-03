@@ -1,3 +1,4 @@
+using MeuDiarioSENAC.Business;
 using MeuDiarioSENAC.Data;
 
 namespace DiarioPessoalApp
@@ -9,7 +10,7 @@ namespace DiarioPessoalApp
 
         public DiarioPessoal()
         {
-            dao = new RegistroDAO(db);
+            dao = new RegistroDAO(db, new RegistroBusiness());
             db.GarantirBancoETabela();
         }
 
@@ -34,15 +35,11 @@ namespace DiarioPessoalApp
 
                 switch (opcao)
                 {
-                    case "1": dao.CriarRegistro(); break;
+                    case "1": if (!dao.CriarRegistro()) return; break;
                     case "2": dao.ListarRegistros(); break;
-                    case "3": dao.BuscarRegistroPorId(); break;
-                    case "4": dao.DeletarRegistroPorId(); break;
+                    case "3": if (!dao.BuscarRegistroPorId()) return; break;
+                    case "4": if (!dao.DeletarRegistroPorId()) return; break;
                     case "5": return;
-                    default:
-                        Console.WriteLine("Opção inválida!");
-                        RegistroDAO.ContinuarAposErro("Escolha uma ação para continuar:");
-                        break;
                 }
             }
         }

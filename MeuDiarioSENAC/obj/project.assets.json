@@ -265,10 +265,24 @@
           }
         }
       },
+      "MeuDiarioSENAC.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Business.dll": {}
+        }
+      },
       "MeuDiarioSENAC.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
         "dependencies": {
+          "MeuDiarioSENAC.Business": "1.0.0",
           "MeuDiarioSENAC.Model": "1.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.0",
           "Pomelo.EntityFrameworkCore.MySql": "9.0.0"
@@ -715,6 +729,11 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
+    "MeuDiarioSENAC.Business/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Business/MeuDiarioSENAC.Business.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Business/MeuDiarioSENAC.Business.csproj"
+    },
     "MeuDiarioSENAC.Data/1.0.0": {
       "type": "project",
       "path": "../MeuDiarioSENAC.Data/MeuDiarioSENAC.Data.csproj",
@@ -728,6 +747,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "MeuDiarioSENAC.Business >= 1.0.0",
       "MeuDiarioSENAC.Data >= 1.0.0",
       "MeuDiarioSENAC.Model >= 1.0.0"
     ]
@@ -757,6 +777,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Business\\MeuDiarioSENAC.Business.csproj": {
+              "projectPath": "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Business\\MeuDiarioSENAC.Business.csproj"
+            },
             "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Data\\MeuDiarioSENAC.Data.csproj": {
               "projectPath": "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Data\\MeuDiarioSENAC.Data.csproj"
             },
