@@ -10,7 +10,7 @@ public class Nota
     public int Id { get; set; }
 
     [Required]
-    [MaxLength(200)]
+    [MaxLength(50)]
     public string Titulo { get; set; } = string.Empty;
 
     [Required]
@@ -18,6 +18,7 @@ public class Nota
 
     [Required]
     [Column(TypeName = "text")]
+    [MaxLength(3000)]
     public string Conteudo { get; set; } = string.Empty;
 
     public Nota()
