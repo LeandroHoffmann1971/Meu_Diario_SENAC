@@ -1,0 +1,28 @@
+@host = http://localhost:5240
+
+### Editar registro
+PUT {{host}}/registros/1
+Content-Type: application/json
+
+{
+  "titulo": "Registro atualizado",
+  "conteudo": "Este conteúdo foi atualizado pela API."
+}
+
+### Deletar registro
+DELETE {{host}}/registros/1
+
+### Listar registros com filtros
+GET {{host}}/registros/?id=1
+
+### Filtrar por título
+GET {{host}}/registros/?titulo=Reuni
+
+### Filtrar por data
+GET {{host}}/registros/?data=2026-06-01
+
+### Filtrar por conteúdo
+GET {{host}}/registros/?conteudo=novos
+
+### Combinar filtros
+GET {{host}}/registros/?titulo=Reuni&data=2026-06-01

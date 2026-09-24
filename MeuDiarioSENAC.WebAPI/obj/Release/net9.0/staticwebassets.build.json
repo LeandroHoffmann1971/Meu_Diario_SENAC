@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "gGgxOBxbxvQvxu3+eRtBdRJZLLv0lwXoFaaY23bdEL4=",
+  "Source": "MeuDiarioSENAC.WebAPI",
+  "BasePath": "_content/MeuDiarioSENAC.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

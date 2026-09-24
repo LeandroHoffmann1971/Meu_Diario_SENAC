@@ -303,6 +303,21 @@
         "runtime": {
           "bin/placeholder/MeuDiarioSENAC.Model.dll": {}
         }
+      },
+      "MeuDiarioSENAC.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MeuDiarioSENAC.Business": "1.0.0",
+          "MeuDiarioSENAC.Data": "1.0.0",
+          "MeuDiarioSENAC.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MeuDiarioSENAC.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MeuDiarioSENAC.Service.dll": {}
+        }
       }
     }
   },
@@ -743,12 +758,18 @@
       "type": "project",
       "path": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj",
       "msbuildProject": "../MeuDiarioSENAC.Model/MeuDiarioSENAC.Model.csproj"
+    },
+    "MeuDiarioSENAC.Service/1.0.0": {
+      "type": "project",
+      "path": "../MeuDiarioSENAC.Service/MeuDiarioSENAC.Service.csproj",
+      "msbuildProject": "../MeuDiarioSENAC.Service/MeuDiarioSENAC.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "MeuDiarioSENAC.Data >= 1.0.0",
-      "MeuDiarioSENAC.Model >= 1.0.0"
+      "MeuDiarioSENAC.Model >= 1.0.0",
+      "MeuDiarioSENAC.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -781,6 +802,9 @@
             },
             "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj": {
               "projectPath": "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Model\\MeuDiarioSENAC.Model.csproj"
+            },
+            "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj": {
+              "projectPath": "C:\\workplace\\DESENVOLVEDOR WEB\\Back End\\MeuDiarioSENAC.Service\\MeuDiarioSENAC.Service.csproj"
             }
           }
         }

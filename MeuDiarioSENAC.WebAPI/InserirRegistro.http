@@ -1,0 +1,19 @@
+@host = http://localhost:5240
+
+### Inserir registro
+POST {{host}}/registros/
+Content-Type: application/json
+
+{
+  "titulo": "Meu primeiro registro",
+  "conteudo": "Hoje criei um novo registro no diário."
+}
+
+### Editar registro
+PUT {{host}}/registros/1
+Content-Type: application/json
+
+{
+  "titulo": "Registro atualizado",
+  "conteudo": "Este conteúdo foi atualizado pela API."
+}

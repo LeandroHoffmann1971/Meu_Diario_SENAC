@@ -40,3 +40,5 @@ C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\bin\Debug\net9.0\M
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\bin\Debug\net9.0\MeuDiarioSENAC.Model.pdb
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\bin\Debug\net9.0\MeuDiarioSENAC.Business.pdb
 C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\obj\Debug\net9.0\MeuDiari.658E3BD3.Up2Date
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\bin\Debug\net9.0\MeuDiarioSENAC.Service.dll
+C:\workplace\DESENVOLVEDOR WEB\Back End\MeuDiarioSENAC.WebAPI\bin\Debug\net9.0\MeuDiarioSENAC.Service.pdb
